@@ -4,10 +4,10 @@ program should count “H” and “h” as an occurence of h. Your program will
 message to the user stating the occurrences of the given letter.'''
 
 
-
+#Printing Welcome Statement
 name=input("Enter Your Name: ").title().strip()
 print("Hello {} , nice to meet you. I will count the number of times that a specific letter occurs in a message \n".format(name))
-
+#Getting usr input
 message=input("Enter a Message: ").strip().lower()
 letter=input("Enter the letter to find and count: ").strip().lower()
 
