@@ -1,5 +1,5 @@
 #  Random Python Problems
-This is a bunch of random python programs solving problems off the internet
+This is a bunch of python programs solving problems off the internet and college
 
 
 ## Contributing
